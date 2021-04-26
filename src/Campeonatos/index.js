@@ -16,7 +16,7 @@ export default function Campeonatos({ navigation }) {
   const [data, setData] = useState();
   const [loading, setLoading] = useState(true);
   //const token = "test_61458dbd071037525bd16a65cc0db2";
-  const token = "live_358c973ee51076fc2513b0659f025b";
+  const token = "live_524f9d3615c064af76063e9498e079";
 
   useEffect(() => {
     axios
